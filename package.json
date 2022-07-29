@@ -1,0 +1,26 @@
+{
+  "name": "html-webpack-date-tag-plugin",
+  "version": "1.0.0",
+  "description": "Simplify create Version Tag Console into HTML",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "version tag",
+    "date tag"
+  ],
+  "author": "hefeng6500",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "safe-require": "^1.0.4"
+  },
+  "homepage": "https://github.com/hefeng6500/html-webpack-date-tag-plugin",
+  "repository": "https://github.com/hefeng6500/html-webpack-date-tag-plugin.git"
+}
